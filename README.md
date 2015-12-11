@@ -1,5 +1,5 @@
 # bayesian-inference
-# Automatically exported from code.google.com/p/bayesian-inference
+## Automatically exported from code.google.com/p/bayesian-inference
 
 This package is a collection of useful classes for basic Bayesian inference. Currently, its main goal is to be a tool for learning and exploration of Bayesian probabilistic calculations.
 
